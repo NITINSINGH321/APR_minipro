@@ -1,4 +1,4 @@
-# 🏠 California Housing Mini Project (APR Assignment-1)
+# California Housing Mini Project (APR Assignment-1)
 
 This project applies **Linear Regression** and **Logistic Regression** on the California Housing Dataset (successor of California Housing, since California dataset is deprecated).  
 
@@ -43,12 +43,16 @@ How to Run
 
 1. Activate virtual environment (if using one):
 
-# Windows:    venv\Scripts\activate
-# Mac/Linux:  source venv/bin/activate
+# Windows:    
+    venv\Scripts\activate
+# Mac/Linux:  
+    source venv/bin/activate
 
-2. Run Linear Regression:   python src/linear_regression.py
+2. Run Linear Regression:
+       python src/linear_regression.py
 
-3. Run Logistic Regression:  python src/logistic_regression.py
+3. Run Logistic Regression:
+      python src/logistic_regression.py
 
 --------------------------------------------
 
